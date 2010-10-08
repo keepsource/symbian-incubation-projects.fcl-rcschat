@@ -1,0 +1,27 @@
+EXPORTS
+	?getStaticMetaObject@MChatSessionIntf@RcsIMLib@@SAABUQMetaObject@@XZ @ 1 NONAME ; struct QMetaObject const & RcsIMLib::MChatSessionIntf::getStaticMetaObject(void)
+	?sessionTerminated@MChatContactManagerIntf@RcsIMLib@@IAEXIPAVMChatSessionIntf@2@@Z @ 2 NONAME ; void RcsIMLib::MChatContactManagerIntf::sessionTerminated(unsigned int, class RcsIMLib::MChatSessionIntf *)
+	?trUtf8@MChatSessionIntf@RcsIMLib@@SA?AVQString@@PBD0@Z @ 3 NONAME ; class QString RcsIMLib::MChatSessionIntf::trUtf8(char const *, char const *)
+	?errorMessage@MChatSessionIntf@RcsIMLib@@IAEXVQString@@@Z @ 4 NONAME ; void RcsIMLib::MChatSessionIntf::errorMessage(class QString)
+	?trUtf8@MChatContactManagerIntf@RcsIMLib@@SA?AVQString@@PBD0H@Z @ 5 NONAME ; class QString RcsIMLib::MChatContactManagerIntf::trUtf8(char const *, char const *, int)
+	?newChatData@MChatSessionIntf@RcsIMLib@@IAEXVQString@@@Z @ 6 NONAME ; void RcsIMLib::MChatSessionIntf::newChatData(class QString)
+	?tr@MChatContactManagerIntf@RcsIMLib@@SA?AVQString@@PBD0H@Z @ 7 NONAME ; class QString RcsIMLib::MChatContactManagerIntf::tr(char const *, char const *, int)
+	?staticMetaObject@MChatContactManagerIntf@RcsIMLib@@2UQMetaObject@@B @ 8 NONAME ; struct QMetaObject const RcsIMLib::MChatContactManagerIntf::staticMetaObject
+	?trUtf8@MChatContactManagerIntf@RcsIMLib@@SA?AVQString@@PBD0@Z @ 9 NONAME ; class QString RcsIMLib::MChatContactManagerIntf::trUtf8(char const *, char const *)
+	?tr@MChatSessionIntf@RcsIMLib@@SA?AVQString@@PBD0H@Z @ 10 NONAME ; class QString RcsIMLib::MChatSessionIntf::tr(char const *, char const *, int)
+	?sessionEstablised@MChatContactManagerIntf@RcsIMLib@@IAEXIPAVMChatSessionIntf@2@@Z @ 11 NONAME ; void RcsIMLib::MChatContactManagerIntf::sessionEstablised(unsigned int, class RcsIMLib::MChatSessionIntf *)
+	?qt_metacast@MChatSessionIntf@RcsIMLib@@UAEPAXPBD@Z @ 12 NONAME ; void * RcsIMLib::MChatSessionIntf::qt_metacast(char const *)
+	?incomingChatSession@MChatContactManagerIntf@RcsIMLib@@IAEXIVQString@@0I@Z @ 13 NONAME ; void RcsIMLib::MChatContactManagerIntf::incomingChatSession(unsigned int, class QString, class QString, unsigned int)
+	?metaObject@MChatSessionIntf@RcsIMLib@@UBEPBUQMetaObject@@XZ @ 14 NONAME ; struct QMetaObject const * RcsIMLib::MChatSessionIntf::metaObject(void) const
+	?qt_metacall@MChatSessionIntf@RcsIMLib@@UAEHW4Call@QMetaObject@@HPAPAX@Z @ 15 NONAME ; int RcsIMLib::MChatSessionIntf::qt_metacall(enum QMetaObject::Call, int, void * *)
+	?trUtf8@MChatSessionIntf@RcsIMLib@@SA?AVQString@@PBD0H@Z @ 16 NONAME ; class QString RcsIMLib::MChatSessionIntf::trUtf8(char const *, char const *, int)
+	?tr@MChatContactManagerIntf@RcsIMLib@@SA?AVQString@@PBD0@Z @ 17 NONAME ; class QString RcsIMLib::MChatContactManagerIntf::tr(char const *, char const *)
+	?metaObject@MChatContactManagerIntf@RcsIMLib@@UBEPBUQMetaObject@@XZ @ 18 NONAME ; struct QMetaObject const * RcsIMLib::MChatContactManagerIntf::metaObject(void) const
+	?getStaticMetaObject@MChatContactManagerIntf@RcsIMLib@@SAABUQMetaObject@@XZ @ 19 NONAME ; struct QMetaObject const & RcsIMLib::MChatContactManagerIntf::getStaticMetaObject(void)
+	?qt_metacall@MChatContactManagerIntf@RcsIMLib@@UAEHW4Call@QMetaObject@@HPAPAX@Z @ 20 NONAME ; int RcsIMLib::MChatContactManagerIntf::qt_metacall(enum QMetaObject::Call, int, void * *)
+	?additionalInfo@MChatSessionIntf@RcsIMLib@@IAEXVQString@@@Z @ 21 NONAME ; void RcsIMLib::MChatSessionIntf::additionalInfo(class QString)
+	?qt_metacast@MChatContactManagerIntf@RcsIMLib@@UAEPAXPBD@Z @ 22 NONAME ; void * RcsIMLib::MChatContactManagerIntf::qt_metacast(char const *)
+	?staticMetaObject@MChatSessionIntf@RcsIMLib@@2UQMetaObject@@B @ 23 NONAME ; struct QMetaObject const RcsIMLib::MChatSessionIntf::staticMetaObject
+	?tr@MChatSessionIntf@RcsIMLib@@SA?AVQString@@PBD0@Z @ 24 NONAME ; class QString RcsIMLib::MChatSessionIntf::tr(char const *, char const *)
+	?createIMManager@ChatImplFactory@@SAPAVMChatContactManagerIntf@RcsIMLib@@VQString@@@Z @ 25 NONAME ; class RcsIMLib::MChatContactManagerIntf * ChatImplFactory::createIMManager(class QString)
+
