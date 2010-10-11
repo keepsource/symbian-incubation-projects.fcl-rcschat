@@ -1,0 +1,2 @@
+The building order shud be commonimlib followed by rcsimengine
+The application written on top of this should also write a plugin to implement the Client Resolver to direct the incoming Invites to itself.
